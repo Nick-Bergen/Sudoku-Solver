@@ -1,0 +1,30 @@
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.exe
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.deps.json
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.runtimeconfig.json
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.pdb
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.csproj.AssemblyReference.cache
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.AssemblyInfoInputs.cache
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.AssemblyInfo.cs
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\refint\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.pdb
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.genruntimeconfig.cache
+C:\Users\nickb\Documents\School Year 4\Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\ref\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.csproj.AssemblyReference.cache
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.AssemblyInfoInputs.cache
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.AssemblyInfo.cs
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\refint\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.pdb
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.exe
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.deps.json
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.runtimeconfig.json
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.dll
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\bin\Debug\net6.0\Sudoku Solver.pdb
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\Sudoku Solver.genruntimeconfig.cache
+C:\Users\nickb\Documents\School Year 4\APP - Haskell Paradigma (Retake)\C# Sudoku Solver\Sudoku Solver\obj\Debug\net6.0\ref\Sudoku Solver.dll
